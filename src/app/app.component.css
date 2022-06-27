@@ -1,0 +1,45 @@
+.header{
+    height: 50px;
+    background-color: #2c5aa4;
+}
+.titulo-principal{
+    margin: 5px;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: 14px;
+}
+strong{
+    font-weight: 500;
+}
+.sair{
+    margin: auto 0 auto auto;
+    text-transform:uppercase;
+    font-weight: 100;
+
+}
+.header-saldo{
+    background-color: #3164ae;
+    
+}
+.menu{
+    font-size: 40px;
+    margin: 5px 15px 15px 5px;
+}
+.saldo{
+    font-size: 12px;
+    margin-left: 10px;
+    line-height: 2px;
+    
+    
+}
+.conta{
+    margin: 5px 0px 5px auto;
+    font-size: 12px;
+    line-height: 16px;
+}
+.adicionar-conta{
+    color:#ee9a1f;
+}
+.img-fundo{
+    width: 100%;
+}
