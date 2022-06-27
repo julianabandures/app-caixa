@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app-caixa';
+  saldo = 'R$ 1.500.000,27';
 }
